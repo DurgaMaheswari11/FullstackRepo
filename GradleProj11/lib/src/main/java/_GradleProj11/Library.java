@@ -5,6 +5,7 @@ package _GradleProj11;
 
 public class Library {
     public boolean someLibraryMethod() {
+    	System.out.println("hii hello how r u ");
         return true;
     }
 }
